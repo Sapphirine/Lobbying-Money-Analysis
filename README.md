@@ -3,4 +3,5 @@ Macro_effect.ipynb:               determine Party effects and money effects, Dra
 Prediction Loop.ipynb  :          Predict vote result with random forest                                                                    
 billname vote.ipynb        :      sort billname and vote condition for each legislators in typec area                                        
 loop individual.ipynb       :     individual effects                                                                                        
-maplight_new.py      :            Collect data to csv file
+maplight_new.py      :            Collect data to csv file                                                                                  
+api_xml.py      :   API key to xml file ready for maplight_new.py
